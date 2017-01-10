@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<title>Вакансии и тендеры – Летний фестиваль искусств «Точка доступа»</title>
+	<meta name="description" content="Вакансии летнего фестиваля искусств «Точка доступа»"> <meta name="robots" content="index, follow"> 
+	<meta name="author" content="Летний фестиваль искусств «Точка доступа»"> 
+	<meta property="og:image" content="http://tochkadostupa.spb.ru/preview_vacansies.jpg">
+	 <link rel="icon" 
+      type="image/png" 
+      href="/ico.png">
+    <!-- СSS --><style type="text/css">
+	input[type="text"]:focus { outline: none; }
+	  </style>
+    <link href="/css/bootstrap.css?v21" rel="stylesheet">
+    <link href="/css/main.css?v11?" rel="stylesheet">
+    <link href="/fonts/stylesheet.css?" rel="stylesheet">
+    <link href="/css/animate.css?v11" rel="stylesheet">
+	<link hred="//raw.githubusercontent.com/dimsemenov/Magnific-Popup/master/dist/magnific-popup.css" rel="stylesheet">
+    <!-- JS -->
+    <script data-class="radarioButtonScript" src="https://radario.ru/scripts/widget/buy-button-widget.js"></script> 
+    <script src="https://use.fontawesome.com/0010ca6996.js"></script>
+	<!-- 1. Link to jQuery (1.8 or later), -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
+	<script src="http://tochkadostupa.spb.ru/js/emerge.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- fotorama.css & fotorama.js. -->
+	<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
+	
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body><script type="text/javascript">(function(d, w, c){(w[c]=w[c] || []).push(function(){try{w.yaCounter31486218=new Ya.Metrika({id: 31486218, clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: true, trackHash: true});}catch (e){}}); var n=d.getElementsByTagName("script")[0], s=d.createElement("script"), f=function(){n.parentNode.insertBefore(s, n);}; s.type="text/javascript"; s.async=true; s.src="https://mc.yandex.ru/metrika/watch.js"; if (w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded", f, false);}else{f();}})(document, window, "yandex_metrika_callbacks"); </script> <noscript> <div><img src="https://mc.yandex.ru/watch/31486218" style="position:absolute; left:-9999px;" alt=""/></div></noscript><div class="emerge" data-effect="slide" data-down="14em">
+    <div class="yellow">
+    <div class="container">
+    <div class="grid">
+		<div class="col-xs-10">
+            <a class="disabled" href="/"> <img width="250px" src="/img/logo.svg" class="img-responsive animated fadeInLeft"></a>
+                <br />
+                
+                <br />
+		<p class="animated fadeInLeft">
+               </p>
+            </div>
+		<div align="right" class="col-xs-2"><h4><a class="disabled" href="/en"><span style="padding:7px;border:1px solid black;">EN</span></a></h4></div></div>
+	 
+	</div>	<div class="container grid"><div class="col-xs-12"><br /></div></div>
+</div> <div class="brown"></div></div><div class="emerge" data-effect="slide" data-continue="true">
+	
+	  <div class="grid container" style="margin-top:-100px;">
+		  <div class="col-md-6"><p><span class="lead"><b>Вакансии</b></span><br />Адрес для отправки резюме: <a href="mailto:info@tochkadostupa.spb.ru">info@tochkadostupa.spb.ru</a></p>
+			  <hr style="border-color:#ffd416" /><p><b>Адрес местонахождения офиса:</b><br />
+Санкт-Петербург, Адмиралтейский район, Исаакиевская пл. (ст. м. Адмиралтейская)</p></div>
+
+		  <div class="col-md-6">		  
+<br /><div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a class="disabled" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+			<b class="lead">Линейный продюсер</b>
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+        <p>Обязанности:</p>
+<ul><li>Операционное управление отдельным направлением проекта</li><li>Работа с базами данных</li><li>Контроль соблюдения регламентов</li><li>Работа с партнёрской сетью</li>	  
+</ul>
+<p>Требования:</p>
+<ul><li>Отличные коммуникационные навыки</li><li>Ведение письменной корреспоненции, в т.ч. на английском языке</li><li>Работа с личного компьютера с подключением к интернету</li><li>Готовность к частым командировкам по Ленинградской области</li><li>Работа в тесной связке с руководителем проекта и другими службами проекта</li><li>Знание рынка световых и видеотехнологий будет вышим преимуществом</li></ul>
+<p>Условия:</p>
+<ul><li>Работа на основании договора ГПХ сроком до 15 августа</li><li>Удалённая работа с еженедельным посещением плановых совещаний в офисе (либо работа в офисе по желанию соискателя)</li><li>Оплата мобильной связи</li><li>Дружный молодой коллектив</li><li>Заработная плата по результатам собеседования</li></ul>
+		 <p>Тип занятости:</p>
+<ul><li>Частичная занятость в период до 31 июля</li>
+	<li>Полная занятость в период с 1 по 15 августа</li></ul>
+		  <p>Адрес для отправки резюме: <a href="mailto:info@tochkadostupa.spb.ru">info@tochkadostupa.spb.ru</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed disabled" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <b class="lead">Менеджер по рекламе</b>
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+        <p>Обязанности:</p>
+			  <ul><li>Работа с подрядчиками по производству полиграфической и другой рекламно-информационной продукции</li><li>Планирование и оперативное управление рекламными бюджетами</li><li>Проведение тендеров</li><li>Помощь на участках цифрового маркетинга</li></ul>
+			  
+<p>Требования:</p>
+		  <ul><li>Опыт работы с полиграфией</li></ul>
+		  <p>Условия:</p>
+		  <ul><li>Оплата мобильной связи</li><li>Дружный молодой коллектив</li><li>Заработная плата по результатам собеседования</li></ul>
+		  <p>Адрес для отправки резюме: <a href="mailto:info@tochkadostupa.spb.ru">info@tochkadostupa.spb.ru</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed disabled" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <b class="lead">Редактор</b>
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+    <p>Обязанности:</p>
+		  <ul><li>Подготовка текстов</li><li>Подготовка пресс-релизов</li><li>Работа с базами данных по СМИ</li><li>Организация информационного партнёрства и спонсорства</li><li>Организация эфиров, съёмок, интервью</li><li>Участие в подготовке отчётов по проектам</li></ul>
+		<p>Требования:</p>
+		  <ul><li>Высшее гуманитарное образование</li><li>Готовность к работе в стрессовых условиях в высокий период подготовки и проведения проектов</li><li>Иностранные языки будут вашим преимуществом</li></ul>
+		  <p>Условия:</p>
+		  <ul><li>Удалённая работа с регулярным посещением плановых совещаний в офисе (либо работа в офисе по желанию соискателя)</li><li>Оплата мобильной связи</li><li>Дружный молодой коллектив</li><li>Заработная плата по результатам собеседования</li></ul>
+		  <p>Тип занятости:</p>
+		  <ul><li>Частичная, позволяет совмещение (кроме высоких периодов подготовки и проведения проектов)</li></ul>
+		  <p>Адрес для отправки резюме: <a href="mailto:info@tochkadostupa.spb.ru">info@tochkadostupa.spb.ru</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+	
+	
+
+		  </div>
+	
+	
+		 
+		  
+	  </div> </div>
+	  
+	 
+ 
+	  <div class="container">
+		   <hr style="border:1px solid #ffffff" />
+		  <div class="grid">
+			  <div class="col-md-6"><p><span class="lead"><b>Тендеры</b></span></p>
+			  <hr style="border-color:#ffd416" /></div>
+			  <div class="col-md-6"><p>Раздел наполняется</p></div>
+		 
+		  </div>
+		   
+	  <hr style="border:1px solid #ffffff" />
+	  </div>
+	  
+	  
+
+	</body>
+</html>

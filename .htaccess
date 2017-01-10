@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteCond %{HTTP} off
+RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+ErrorDocument 405 /405.html
+ErrorDocument 401 /401.html
+ErrorDocument 500 /500.html
+ErrorDocument 403 /403.html
+ErrorDocument 404 /404.html
+# Begin Muse Generated redirects
+# End Muse Generated redirects
+# Begin Muse Generated redirects
+# End Muse Generated redirects
+
+Redirect 301 /events /festival2016/events
+Redirect 301 /rasp.html /festival2016/rasp.html
+Redirect 301 /about.html /festival2016/about.html
+Redirect 301 /partners.html /festival2016/partners.html
+Redirect 301 /en.html /festival2016/en.html
+

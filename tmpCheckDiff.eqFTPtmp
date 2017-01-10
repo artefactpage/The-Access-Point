@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="ru-ru" dir="ltr">
+
+    <head>
+        <meta charset="utf-8">
+      
+        <title>Другой Город - Точка доступа</title>
+        <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+        
+        <link rel="stylesheet" href="/css/uikit.css">
+        <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon.png">
+        <link rel="stylesheet" href="/css/main.css">
+         <link rel="stylesheet" href="/fonts/stylesheet.css">
+        <link rel="stylesheet" href="/js/magnific-popup.css">
+          <link rel="stylesheet" href="/css/components/slider.css">
+        <link rel="stylesheet" href="/css/components/slidenav.css">
+        
+       
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+         <script src="/js/components/slider.js"></script>
+        <script src="/js/jquery.magnific-popup.js"></script>
+        <script src="/js/uikit.min.js"></script>
+        <script src="/js/components/grid.js"></script>
+        <script src="/js/components/parallax.js"></script>
+        <script src="https://use.typekit.net/pbf0kfd.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+    </head>
+
+    <body><!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31486218 = new Ya.Metrika({ id:31486218, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/31486218" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<div class="bg-ten uk-visible-large">
+        <div class="uk-margin"></div>
+        <div class="uk-margin"></div>
+<div class="uk-container uk-container-center uk-visible-large">
+<div class="uk-grid" style="margin-top:-15px;">
+    <div class="uk-width-medium-2-10 size ">
+        <a href="/"><img src="/img/logo.svg" width="188"></a>
+    </div>
+<div class="uk-width-medium-4-10 size">
+          <div align="center">
+        <ul class="uk-subnav uk-subnav-line">
+            <li><a href="/">Главная</a></li>
+            <li><a href="/rasp.html">Расписание</a></li>
+            <li><a href="/about.html">О фестивале</a></li>
+            <li><a href="/partners.html">Партнёры</a></li> 
+        </ul>
+        </div>
+</div>
+<div class="uk-width-medium-4-10 buttons">
+
+
+<span style="padding-left:150px;"> </span>
+
+        
+    <a href="http://vk.com/tochkadostupaspb" target="_blank" style="text-decoration: none;">
+<figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/vk.svg" width="25" height="" alt="">
+    <img class="uk-overlay-panel uk-overlay-image" src="/img/vkactive.svg" width="25" height="" alt="">
+</figure>
+</a>
+<span style="padding-left:10px;"> </span>
+<a href="http://facebook.com/tochkadostupaspb" target="_blank" style="text-decoration: none;">
+<figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/fb.svg" width="25" height="" alt="">
+        <img class="uk-overlay-panel uk-overlay-image" src="/img/fbactive.svg" width="25" height="" alt="">
+
+</figure>
+</a>   
+<span style="padding-left:10px;"> </span>
+<a href="http://instagram.com/tochkadostupaspb" target="_blank" style="text-decoration: none;">
+<figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/inst.svg" width="25" height="" alt=""> 
+        <img class="uk-overlay-panel uk-overlay-image" src="/img/instactive.svg" width="25" height="" alt="">
+</figure>
+</a><span style="padding-left:10px;"> </span><a href="/en.html">En</a> <b>Ru</b>
+</div>
+</div>
+</div>
+</div>
+        <div class="uk-container uk-container-center uk-hidden-large">
+            <div class="uk-margin"></div>
+            <div class="uk-margin"></div>   
+<div class="uk-grid">
+    <div class="uk-width-1-2">
+  <a href="#offcanvas-1" data-uk-offcanvas><figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/breadactive.svg" width="45" height="" alt="">
+    <img class="uk-overlay-panel uk-overlay-image" src="/img/bread.svg" width="45" height="" alt="">
+       </figure></a>
+    
+    </div>
+    
+    <div align="right" class="uk-width-1-2">
+     <img src="/img/logo.svg" width="188"> 
+    </div>
+</div>
+                            <div id="offcanvas-1" class="uk-offcanvas">
+                                <div class="uk-offcanvas-bar">
+                                     <ul class="uk-nav uk-nav-offcanvas">
+                                         <li class="uk-active"><a href="/">Главная</a></li>
+                                         <li><a href="/rasp.html">Расписание</a></li>
+                                         <li><a href="/about.html">О фестивале</a></li>
+                                         <li><a href="/partners.html">Партнёры</a></li>  
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+
+    </div>
+   <div class="uk-margin"></div>
+        <div class="uk-margin"></div>
+        <div class="uk-margin uk-text-contrast uk-text-center uk-flex uk-flex-center uk-flex-middle" data-uk-parallax="{bg: '-80'}" style="height: 240px; background-image: url('/img/events/promenade_1920x600.png');">
+        <div align="center">
+    
+  
+            <p class="uk-h1     geo">Другой город</p>
+     
+    </div>  </div>
+          
+       
+
+        
+        
+        
+        
+        
+<div class="uk-container uk-container-center">
+ 
+    <div class="uk-grid">
+    <div class="uk-width-medium-4-10">
+        <div class="uk-badge-notification">Спецпроект</div>
+        <p>4 августа</p>
+        <p class="uk-h1     geo">Другой город</p>
+        <a class="popup-with-zoom-anim uk-button uk-button-primary" href="#small-dialog">Купить билеты</a>
+<script data-class="radarioButtonScript" src="https://radario.ru/scripts/widget/buy-button-widget.js"></script>
+        <p><i class="uk-icon-map-marker"></i> Около памятника мальчику, пересечение ул. Белинского и наб. реки Фонтанки</p>
+        <p><i class="uk-icon-clock-o"></i> Продолжительность: 60 минут</p>
+        <p><b>Режиссёр спектакля:</b> Семен Александровский</p>
+        <p><b>Совместный проект фестиваля и pop-up театра</b></p>
+        <p>При поддержке:</p>
+        <p align="center"><a href="http://sennheiser.ru/"><img src="/img/partners/logo_sinn.jpg"></a></p>
+        <script>
+        $(document).ready(function() {
+	$('.popup-with-zoom-anim').magnificPopup({
+		type: 'inline',
+
+		fixedContentPos: false,
+		fixedBgPos: true,
+
+		overflowY: 'auto',
+
+		closeBtnInside: true,
+		preloader: false,
+		
+		midClick: true,
+		removalDelay: 300,
+		mainClass: 'my-mfp-zoom-in'
+	});
+
+	$('.popup-with-move-anim').magnificPopup({
+		type: 'inline',
+
+		fixedContentPos: false,
+		fixedBgPos: true,
+
+		overflowY: 'auto',
+
+		closeBtnInside: true,
+		preloader: false,
+		
+		midClick: true,
+		removalDelay: 300,
+		mainClass: 'my-mfp-slide-bottom'
+	});
+});
+        </script>
+        <style type="text/css">
+      /**
+       * Simple fade transition,
+       */
+            #small-dialog {
+	background: white;
+	padding: 20px 30px;
+	text-align: left;
+	max-width: 400px;
+	margin: 40px auto;
+	position: relative;
+}
+
+
+/**
+ * Fade-zoom animation for first dialog
+ */
+
+/* start state */
+.my-mfp-zoom-in .zoom-anim-dialog {
+	opacity: 0;
+
+	-webkit-transition: all 0.2s ease-in-out; 
+	-moz-transition: all 0.2s ease-in-out; 
+	-o-transition: all 0.2s ease-in-out; 
+	transition: all 0.2s ease-in-out; 
+
+
+
+	-webkit-transform: scale(0.8); 
+	-moz-transform: scale(0.8); 
+	-ms-transform: scale(0.8); 
+	-o-transform: scale(0.8); 
+	transform: scale(0.8); 
+}
+
+/* animate in */
+.my-mfp-zoom-in.mfp-ready .zoom-anim-dialog {
+	opacity: 1;
+
+	-webkit-transform: scale(1); 
+	-moz-transform: scale(1); 
+	-ms-transform: scale(1); 
+	-o-transform: scale(1); 
+	transform: scale(1); 
+}
+
+/* animate out */
+.my-mfp-zoom-in.mfp-removing .zoom-anim-dialog {
+	-webkit-transform: scale(0.8); 
+	-moz-transform: scale(0.8); 
+	-ms-transform: scale(0.8); 
+	-o-transform: scale(0.8); 
+	transform: scale(0.8); 
+
+	opacity: 0;
+}
+
+/* Dark overlay, start state */
+.my-mfp-zoom-in.mfp-bg {
+	opacity: 0;
+	-webkit-transition: opacity 0.3s ease-out; 
+	-moz-transition: opacity 0.3s ease-out; 
+	-o-transition: opacity 0.3s ease-out; 
+	transition: opacity 0.3s ease-out;
+}
+/* animate in */
+.my-mfp-zoom-in.mfp-ready.mfp-bg {
+	opacity: 0.8;
+}
+/* animate out */
+.my-mfp-zoom-in.mfp-removing.mfp-bg {
+	opacity: 0;
+}
+
+
+
+/**
+ * Fade-move animation for second dialog
+ */
+
+/* at start */
+.my-mfp-slide-bottom .zoom-anim-dialog {
+	opacity: 0;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+
+	-webkit-transform: translateY(-20px) perspective( 600px ) rotateX( 10deg );
+	-moz-transform: translateY(-20px) perspective( 600px ) rotateX( 10deg );
+	-ms-transform: translateY(-20px) perspective( 600px ) rotateX( 10deg );
+	-o-transform: translateY(-20px) perspective( 600px ) rotateX( 10deg );
+	transform: translateY(-20px) perspective( 600px ) rotateX( 10deg );
+
+}
+
+/* animate in */
+.my-mfp-slide-bottom.mfp-ready .zoom-anim-dialog {
+	opacity: 1;
+	-webkit-transform: translateY(0) perspective( 600px ) rotateX( 0 ); 
+	-moz-transform: translateY(0) perspective( 600px ) rotateX( 0 ); 
+	-ms-transform: translateY(0) perspective( 600px ) rotateX( 0 ); 
+	-o-transform: translateY(0) perspective( 600px ) rotateX( 0 ); 
+	transform: translateY(0) perspective( 600px ) rotateX( 0 ); 
+}
+
+/* animate out */
+.my-mfp-slide-bottom.mfp-removing .zoom-anim-dialog {
+	opacity: 0;
+
+	-webkit-transform: translateY(-10px) perspective( 600px ) rotateX( 10deg ); 
+	-moz-transform: translateY(-10px) perspective( 600px ) rotateX( 10deg ); 
+	-ms-transform: translateY(-10px) perspective( 600px ) rotateX( 10deg ); 
+	-o-transform: translateY(-10px) perspective( 600px ) rotateX( 10deg ); 
+	transform: translateY(-10px) perspective( 600px ) rotateX( 10deg ); 
+}
+
+/* Dark overlay, start state */
+.my-mfp-slide-bottom.mfp-bg {
+	opacity: 0;
+
+	-webkit-transition: opacity 0.3s ease-out; 
+	-moz-transition: opacity 0.3s ease-out; 
+	-o-transition: opacity 0.3s ease-out; 
+	transition: opacity 0.3s ease-out;
+}
+/* animate in */
+.my-mfp-slide-bottom.mfp-ready.mfp-bg {
+	opacity: 0.8;
+}
+/* animate out */
+.my-mfp-slide-bottom.mfp-removing.mfp-bg {
+	opacity: 0;
+}
+      .mfp-fade.mfp-bg {
+        opacity: 0;
+        -webkit-transition: all 0.15s ease-out; 
+        -moz-transition: all 0.15s ease-out; 
+        transition: all 0.15s ease-out;
+      }
+      .mfp-fade.mfp-bg.mfp-ready {
+        opacity: 0.8;
+      }
+      .mfp-fade.mfp-bg.mfp-removing {
+        opacity: 0;
+      }
+
+      .mfp-fade.mfp-wrap .mfp-content {
+        opacity: 0;
+        -webkit-transition: all 0.15s ease-out; 
+        -moz-transition: all 0.15s ease-out; 
+        transition: all 0.15s ease-out;
+      }
+      .mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+        opacity: 1;
+      }
+      .mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+        opacity: 0;
+      }
+    </style>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+          disableOn: 700,
+          type: 'iframe',
+          mainClass: 'mfp-fade',
+          removalDelay: 160,
+          preloader: false,
+
+          fixedContentPos: false
+        });
+      });
+    </script>
+        
+        </div>
+        <div class="uk-width-medium-6-10">
+            
+            <div style="height:50px;"></div>
+            <p>Режиссер Семен Александровский отправился в экспедицию по европейским городам Амстердаму, Парижу и Венеции: три дня в каждом из них ходил по выбранному маршруту, писал звук на специальные бинауральные микрофоны. Такая запись в наушниках дает ощущение присутствия: велосипедные звонки амстердамцев, уличные музыканты Парижа, перез- вон колоколов венецианских церквей и студенческая демонстрация на набережной Неисцелимых.</p>
+            <p>Проект «Другой город» — это прогулка по набережной Петербурга с бинауральной записью звуков другого города в наушниках. В точке сбора публики — на площади перед церковью Симеона и Анны, на углу улицы Белинского и набережной реки Фонтанки, зритель выбирает один из трех городов — Амстердам, Париж или Венецию, получает плеер с наушниками и карту, в которой сопоставлены два маршрута — Петер- бург и Другой город...</p>
+            <p>Семен Александровский — режиссер, лауреат Санкт–Петербургской театральной премии для молодых «Прорыв» и фестиваля «Новосибирский транзит»</p>
+        </div>
+    </div>
+   
+</div>
+        <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
+	<h1 class="geo">Выберите время</h1>
+	
+            <a href="" data-radario-event-id="74360"><div class='uk-label event'>17:00</div></a>
+            <a href="" data-radario-event-id="74376"><div class='uk-label event'>17:15</div></a>
+            <a href="" data-radario-event-id="74377"><div class='uk-label event'>17:30</div></a>
+            <a href="" data-radario-event-id="74378"><div class='uk-label event'>17:45</div></a>
+            <a href="" data-radario-event-id="74379"><div class='uk-label event'>18:00</div></a>
+            <a href="" data-radario-event-id="74380"><div class='uk-label event'>18:15</div></a>
+            <a href="" data-radario-event-id="74381"><div class='uk-label event'>18:30</div></a>
+            <a href="" data-radario-event-id="74382"><div class='uk-label event'>18:45</div></a>
+            <a href="" data-radario-event-id="74383"><div class='uk-label event'>19:00</div></a>
+            <a href="" data-radario-event-id="74384"><div class='uk-label event'>19:15</div></a>
+            <a href="" data-radario-event-id="74385"><div class='uk-label event'>19:30</div></a>
+            <a href="" data-radario-event-id="74386"><div class='uk-label event'>19:45</div></a>
+            <a href="" data-radario-event-id="74387"><div class='uk-label event'>20:00</div></a>
+            <a href="" data-radario-event-id="74388"><div class='uk-label event'>20:15</div></a>
+            <a href="" data-radario-event-id="74389"><div class='uk-label event'>20:30</div></a>
+            <a href="" data-radario-event-id="74390"><div class='uk-label event'>20:45</div></a>
+</div>
+              <div class="footer bg-two">
+            <div class="uk-hidden-large">
+                <img src="/img/logo.svg" width="188"><div style="height:20px"></div>
+                <div align="center">
+                <p>По вопросам сотрудничества:<br /><span class="uk-h3"><a href="mailto:info@tochkadostupa.spb.ru"><b>info@tochkadostupa.spb.ru</b></a></span></p><div style="height:20px"></div>
+                    <figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/vk.svg" width="25" height="" alt="">
+    <img class="uk-overlay-panel uk-overlay-image" src="/img/vkactive.svg" width="25" height="" alt="">
+</figure><span style="padding-left:10px;"> </span>
+        
+    <figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/fb.svg" width="25" height="" alt="">
+    <img class="uk-overlay-panel uk-overlay-image" src="/img/fbactive.svg" width="25" height="" alt="">
+</figure><span style="padding-left:10px;"> </span>
+        <figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/inst.svg" width="25" height="" alt="">
+    <img class="uk-overlay-panel uk-overlay-image" src="/img/instactive.svg" width="25" height="" alt="">
+</figure><br /><div style="height:20px"></div>
+        <a href="/">Главная</a><br />
+            <a href="/rasp.html">Расписание</a><br />
+          <a href="/about.html">О фестивале</a><br />
+          <a href="/partners.html">Партнёры</a><br />
+                </div>
+            </div>
+        <div class="uk-container uk-container-center uk-visible-large">
+<div class="uk-grid">
+    <div class="uk-width-medium-2-10 size ">
+    <img src="/img/logo.svg" width="188"> 
+    </div>
+<div class="uk-width-medium-2-10 size">
+      
+</div>
+<div class="uk-width-medium-4-10 buttons">
+  <div align="center">
+        <ul class="uk-subnav uk-subnav-line">
+            <li><a href="/">Главная</a></li>
+            <li><a href="/rasp.html">Расписание</a></li>
+            <li><a href="/about.html">О фестивале</a></li>
+            <li><a href="/partners.html">Партнёры</a></li> 
+        </ul>
+    <div class="uk-grid"><div class="uk-width-2-10"><img src="img/gerb.png"></div>
+              <div class="uk-width-8-10"><p align="left">При поддержке<br />Комитета по культуре Санкт-Петербурга</p></div>
+      </div>
+        </div><p>По вопросам приобретения, обмена и возврата билетов, а также по общим вопросам и предложением:<br />
+         <b class="geo uk-h5"><a href="mailto:info@tochkadostupa.spb.ru">info@tochkadostupa.spb.ru</a></b><br /><b>+7 931 981−85−42</b></p>  
+    </div>
+<div class="uk-width-medium-2-10 buttons">
+   
+    <div align="right"> <a href="/rasp.html" class="uk-button uk-button-primary">Купить билет</a></div>
+    <br />
+    <div align="right">
+
+<a href="http://vk.com/tochkadostupaspb" target="_blank" style="text-decoration: none;">
+<figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/vk.svg" width="25" height="" alt="">
+    <img class="uk-overlay-panel uk-overlay-image" src="/img/vkactive.svg" width="25" height="" alt="">
+</figure>
+</a>
+<span style="padding-left:10px;"> </span>
+<a href="http://facebook.com/tochkadostupaspb" target="_blank" style="text-decoration: none;">
+<figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/fb.svg" width="25" height="" alt="">
+        <img class="uk-overlay-panel uk-overlay-image" src="/img/fbactive.svg" width="25" height="" alt="">
+
+</figure>
+</a>   
+<span style="padding-left:10px;"> </span>
+<a href="http://instagram.com/tochkadostupaspb" target="_blank" style="text-decoration: none;">
+<figure class="uk-overlay uk-overlay-hover">
+    <img src="/img/inst.svg" width="25" height="" alt=""> 
+        <img class="uk-overlay-panel uk-overlay-image" src="/img/instactive.svg" width="25" height="" alt="">
+</figure>
+</a>
+</div>
+</div>
+</div>
+</div>
+        </div>
+   <script>
+
+window._txq = window._txq || [];
+
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//st.targetix.net/txsp.js';
+
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+
+_txq.push(['createPixel', '577b65f47bc72f5488db81ce']);
+
+_txq.push(['track', 'PageView']);
+
+</script>
+
+<script>
+
+window._txq = window._txq || [];
+
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//st.targetix.net/txsp.js';
+
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+
+_txq.push(['createPixel', '577b66357bc72f72bc8809ef']);
+
+_txq.push(['track', 'PageView']);
+
+</script>
+    </body>
+</html>
